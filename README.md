@@ -1,4 +1,4 @@
-# AMN AI Turbine Energy Yield Predictor / Turbine Ai
+# AMN AI Turbine Energy Yield Predictor (Turbine Ai)
 ## Optimize Gas Turbine Performance with AI-Powered Predictions
 The AMN AI Turbine Energy Yield Predictor is an advanced machine learning application designed to forecast turbine energy yield based on critical operational parameters. This tool enables gas turbine engineers, energy analysts, and researchers to optimize turbine performance, reduce inefficiencies, and enhance overall energy output.
 
