@@ -64,6 +64,9 @@ Save your report quickly with just a keystroke.
 
 These intuitive shortcuts empower you to work faster and focus on optimizing turbine performance without interruptions.
 
+## Note:
+The alert thresholds in this system serve as general guidelines and may vary depending on the turbine model, design specifications, and operational conditions. To ensure accurate monitoring and effective alerts, it is important to adjust the threshold parameters in the AMNai.json configuration file located in the installed directory. Parameters such as afdp_thresholds(Air Filter Difference Pressure), co_thresholds(Carbon Monoxide), tit_thresholds(Turbine Inlet Temperature), and cdp_thresholds(Compressor Discharge Pressure) should be customized to reflect the specific characteristics and performance requirements of the turbine. Proper adjustments will help achieve optimal system performance and precise diagnostics.
+
 ## Who Should Use This App?
 
 ✅ Gas Turbine Engineers  and Energy Operators: Optimize turbine operations for consistent energy output.
