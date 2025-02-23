@@ -90,7 +90,7 @@ The alert thresholds in this system serve as general guidelines and may vary dep
 4️⃣ Save reports for future reference and optimization.
 
 ## 📥 Downloads  
-[![Download Turbine AI v1.0.0](https://img.shields.io/badge/Download-Turbine%20AI%20v1.0.0-blue?style=for-the-badge)](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor/releases/download/v1.0.0/AMN.Ai.Turbine.Energy.Yield.Predictor.Setup.exe)
+[![Download](https://img.shields.io/badge/Download_App-Turbine_Ai_v1.0.0-blue)](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor/releases/download/v1.0.0/AMN.Ai.Turbine.Energy.Yield.Predictor.Setup.exe)
 
 ## 👨‍💻 Developed By  
 💡 **Aneesh Murali Nariyampully** – Creator of both the **ML model** and the **application**.  
