@@ -64,26 +64,17 @@ Save your report quickly with just a keystroke.
 
 These intuitive shortcuts empower you to work faster and focus on optimizing turbine performance without interruptions.
 
-
-
-
-Ideal For:
-•  Energy Operators: Optimize turbine operations for consistent energy output.
-•  Engineers: Improve turbine efficiency with data-driven insights.
-•  Maintenance Teams: Detect anomalies and resolve issues proactively.
-
-
-
-
-
-
 ## Who Should Use This App?
 
-✅ Gas Turbine Engineers – Optimize turbine performance and monitor key parameters.
+✅ Gas Turbine Engineers  and Energy Operators: Optimize turbine operations for consistent energy output.
 
-✅ Energy Analysts – Improve efficiency and predict energy yield for better decision-making.
+✅ Energy Analysts: Improve efficiency and predict energy yield for better decision-making.
 
-✅ ML & AI Enthusiasts – Explore machine learning applications in industrial energy optimization.
+✅ Engineers: Improve turbine efficiency with data-driven insights.
+
+✅ Maintenance Teams: Detect anomalies and resolve issues proactively.
+
+✅ ML & AI Enthusiasts: Explore machine learning applications in industrial energy optimization.
 
 ## How It Works
 
