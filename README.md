@@ -98,8 +98,6 @@ The alert thresholds in this system serve as general guidelines and may vary dep
 **To learn more about the machine learning model, check out our project ML Turbine Energy Yield Prediction**
 
 🔗 **GitHub:** [ML Turbine Energy Yield Prediction for Gas Turbine Optimization](https://github.com/aneeshmurali-n/ML-Turbine-Energy-Yield-Prediction-for-Gas-Turbine-Optimization)  
-
-**Harness AI and machine learning to maximize turbine efficiency and optimize energy output!**  
  
 
 
