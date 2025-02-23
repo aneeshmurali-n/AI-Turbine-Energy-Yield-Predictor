@@ -90,7 +90,7 @@ The alert thresholds in this system serve as general guidelines and may vary dep
 4️⃣ Save reports for future reference and optimization.
 
 ## 📥 Download & Usage  
-🔗 **[Download the App](https://github.com/aneeshmurali-n/ML-Turbine-Energy-Yield-Prediction-for-Gas-Turbine-Optimization)**  
+[![Download App](https://img.shields.io/badge/Download-App-blue?style=for-the-badge)](https://github.com/aneeshmurali-n/AI-Turbine-Energy-Yield-Predictor/releases/latest/download/AI-Turbine-Energy-Yield-Predictor-Setup.exe)
 
 ## 👨‍💻 Developed By  
 💡 **Aneesh Murali Nariyampully** – Creator of both the **ML model** and the **application**.  
