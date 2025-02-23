@@ -7,7 +7,7 @@ The AMN AI Turbine Energy Yield Predictor is an advanced machine learning applic
 
 
 
-## Key Features:
+## Key Features
 **Intelligent Energy Yield Prediction:**
 
 Utilizes ML models to estimate Predicted Turbine Energy Yield in MWh based on input parameters.
