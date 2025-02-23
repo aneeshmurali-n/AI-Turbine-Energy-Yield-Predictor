@@ -1,0 +1,79 @@
+{
+    "main_bg": "#1e1f22",
+    "entry_bg": "#26282e",
+    "entry_fg": "#b7babf",
+    "cursor_color": "#1e1f22",
+    "selected_fg": "#c38fff",
+    "head_label_fg": "#b7babf",
+    "result_label_fg": "#b7babf",
+    "label_fg": "#b7babf",
+    "button_color": "#03dac6",
+    "button_press_color": "#26282e",
+    "button_text_color": "#1e1f22",
+    "button_press_text_color": "#3e4047",
+    "label_font_style": [
+        "Ubuntu",
+        13,
+        "italic"
+    ],
+    "entry_font_style": [
+        "Ubuntu",
+        13,
+        "bold"
+    ],
+    "result_label_font_style": [
+        "Ubuntu",
+        15,
+        "bold"
+    ],
+    "head_label_font_style": [
+        "Ubuntu",
+        13,
+        "italic"
+    ],
+    "button_font_style": [
+        "Roboto",
+        13
+    ],
+    "scrolled_text_font_style": [
+        "Roboto",
+        11
+    ],
+    "scrolled_text_bg": "#26282e",
+    "scrolled_text_fg": "#9fa2a7",
+    "scrolled_text_selected": "#664b86",
+    "hover_effect_highlight_color": "#FFD700",
+    "entry_highlight_bg_color": "#c38fff",
+    "entry_highlight_fg_color": "#1e1f22",
+    "report_title_text": "AMN Ai Turbine Performance and Energy Yield Report ",
+    "button_press_delay": 150,
+    "MWh_limit": 600,
+    "working_hours": 8000,
+    "afdp_display_unit": "mbar",
+    "cdp_display_unit": "bar",
+    "afdp_thresholds": {
+        "low_sensor_error<": 0.5,
+        "sensor_error_too_clean_filter<": 1.0,
+        "clogging_warning_min>=": 3.5,
+        "clogging_warning_max<=": 4.5,
+        "clogged_filter>": 5.0
+    },
+    "tit_thresholds": {
+        "critical_high": 1200,
+        "very_high": 1150,
+        "abnormal_high": 1100,
+        "optimal_min": 900,
+        "optimal_max": 1060
+    },
+    "cdp_thresholds": {
+        "critically_low<": 9.5,
+        "normal_min>=": 10.5,
+        "normal_max<=": 13.5,
+        "critically_high>": 15.5
+    },
+    "co_thresholds": {
+        "excellent<": 5.0,
+        "efficient_max<=": 20.0,
+        "moderate_max<=": 50.0
+    }
+}
