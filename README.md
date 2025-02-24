@@ -17,7 +17,7 @@ Utilizes ML models to estimate Predicted Turbine Energy Yield in MWh based on in
 
 * Real-time monitoring identifies issues early, ensuring smooth turbine operation.
 * Receive tailored suggestions to quickly address problems and reduce downtime.
-* Proactive Problem SolviAlerts and recommendations let you address issues before they escalate.
+* Proactive Problem Solving Alerts and recommendations let you address issues before they escalate.
 * Improve Reliability: Predictive analytics and anomaly detection help avoid unexpected failures.
 * Maximize Efficiency: Continuous analysis ensures optimal energy production and reduced operational costs.
 
